@@ -1,5 +1,5 @@
 # Ray-Tracer-CPP
-This is a bare bones ray tracer with no acceleration structure.
+This is a bare bones ray tracer with no acceleration structure implemeted using cpp.
 
 Course: CS 440 Computer Graphics
 
