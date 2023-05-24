@@ -3,4 +3,7 @@ This is a bare bones ray tracer with no acceleration structure.
 
 Course: CS 440 Computer Graphics
 
-# Screens
+# Renders
+![Alt text](/images/1.png)
+![Alt text](/images/2.png)
+![Alt text](/images/3.png)
