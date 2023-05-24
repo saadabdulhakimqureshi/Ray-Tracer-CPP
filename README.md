@@ -1,9 +1,7 @@
 # Ray-Tracer-CPP
-This is a bare bones ray tracer with no acceleration structure implemeted using cpp.
+It is a fully functional ray tracer built using C++, following the book Ray Tracing from the Ground Up by Kevin Suffern. The details are given through the accompanying website which is hosted at [Hanoi Unlock](https://hafsairfan.github.io/CG-Project-Website/). 
 
 Course: CS 440 Computer Graphics(Final Project)
-
-It is a fully functional ray tracer built using C++, following the book Ray Tracing from the Ground Up by Kevin Suffern. The details are given through the accompanying website which is hosted at [Hanoi Unlock](https://hafsairfan.github.io/CG-Project-Website/). 
 
 ## Instructions
 
